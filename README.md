@@ -1,2 +1,2 @@
 # customer-order-api
-sample api development with nodejs
+In this project a sample api application has been developed with nodejs
